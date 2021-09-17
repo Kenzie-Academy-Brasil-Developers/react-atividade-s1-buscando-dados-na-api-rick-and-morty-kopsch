@@ -1,0 +1,16 @@
+.box-list {
+  display: flex;
+  flex-flow: row wrap;
+}
+
+.box-card {
+  margin: 20px;
+}
+
+.box-card--dead {
+  background-color: red;
+}
+
+.character-list__title {
+  text-align: center;
+}
